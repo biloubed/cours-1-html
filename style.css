@@ -1,0 +1,26 @@
+.titre1{
+  color:red;
+}
+
+h1{
+  color:blue;
+}
+
+body{
+  background-image: url('image/image.jpg');
+}
+
+.toto{
+  background-image: url('image/image.jpg');
+  width:700px;
+  height: 500px;
+}
+
+.img{
+  width:200px;
+  height: 200px;
+}
+
+.H1toto{
+  color:green;
+}
